@@ -46,3 +46,17 @@
 ## 📈 Contribution Graph
 
 [![Sathish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night)](https://github.com/sathishkofficial01)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true" />
+</p>
