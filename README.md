@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sathish+Kumar;Front-End+Developer;React+Developer;Open+to+Work)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sathish+Kumar;Front-End+Developer;React+Developer;Open+to+Work)](https://git.io/typing-svg)
+
+</p>
+
 # Hi 👋, I'm Sathish Kumar
 
 ### 💻 Front-End Developer
