@@ -91,6 +91,18 @@
   </a>
 </p>
 
+## 💬 Favorite Quote
+
+> "Code. Learn. Build. Repeat. 🚀"
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ## 🚀 Featured Projects
 
