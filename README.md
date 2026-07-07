@@ -38,3 +38,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=sathishkofficial01&color=blue)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
