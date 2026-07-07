@@ -58,12 +58,34 @@
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Featured Projects
 
-- 💼 LinkedIn: https://linkedin.com/in/sathishkofficial01
-- 💻 GitHub: https://github.com/sathishkofficial01
+### 🛒 Grocery E-Commerce Website
+- Responsive E-Commerce Website
+- HTML, CSS, JavaScript
+- 🔗 Repository: https://github.com/sathishkofficial01/Grocery-E-Commerce-Website
 
----
+### 🌤️ Weather App
+- Real-time Weather Application
+- HTML, CSS, JavaScript
+- 🔗 Repository: https://github.com/sathishkofficial01/Weather-App
+
+### ✅ To-Do App
+- Task Management Application
+- HTML, CSS, JavaScript
+- 🔗 Repository: https://github.com/sathishkofficial01/To-Do-App
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/sathishkofficial01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sathishkofficial01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=flat" />
