@@ -92,4 +92,36 @@
 </p>
 
 
+## 🚀 Featured Projects
+
+### 🌦️ Weather App
+> A responsive weather application built using HTML, CSS, JavaScript and Weather API.
+
+🔗 Live Demo: https://your-demo-link.com  
+💻 Source Code: https://github.com/sathishkofficial01/weather-app
+
+---
+
+### ✅ To-Do App
+> A clean task management app with add, edit and delete features.
+
+🔗 Live Demo: https://your-demo-link.com  
+💻 Source Code: https://github.com/sathishkofficial01/todo-app
+
+---
+
+### 🎬 Movie Search App
+> Search movies instantly using a movie API with a modern UI.
+
+🔗 Live Demo: https://your-demo-link.com  
+💻 Source Code: https://github.com/sathishkofficial01/movie-search
+
+---
+
+### 🛒 E-Commerce Website
+> A modern shopping website built with React featuring responsive design.
+
+🔗 Live Demo: https://your-demo-link.com  
+💻 Source Code: https://github.com/sathishkofficial01/ecommerce
+
 
