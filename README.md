@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Sathish Kumar
 
-<!--
-**sathishkofficial01/sathishkofficial01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Front-End Developer
 
-Here are some ideas to get you started:
+🌱 Currently Learning **React.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about Web Development
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 GitHub: https://github.com/sathishkofficial01
+- 💼 LinkedIn: https://linkedin.com/in/sathishkofficial01
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight)
