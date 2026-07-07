@@ -4,13 +4,22 @@
 
 </p>
 
-# Hi 👋, I'm Sathish Kumar
+<h1 align="center">Hi 👋, I'm Sathish Kumar</h1>
 
-### 💻 Front-End Developer
+<h3 align="center">💻 Front-End Developer | React Learner 🚀</h3>
 
-🌱 Currently Learning **React.js**
 
-🚀 Passionate about Web Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Open+to+Work;Always+Learning+New+Things" />
+</p>
+
+## 🙋 About Me
+
+- 🌱 Currently learning **React.js**
+- 💻 Passionate about Web Development
+- 🚀 Building Front-End Projects
+- 📚 Learning every day
+- 🎯 Goal: Become a Software Developer
 
 ---
 
@@ -21,6 +30,15 @@
 </p>
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
+</p>
+
+---
+
 
 ## 📫 Connect with Me
 
