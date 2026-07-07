@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sathish+Kumar;Front-End+Developer;React+Developer;Open+to+Work)](https://git.io/typing-svg)
 # Hi 👋, I'm Sathish Kumar
 
 ### 💻 Front-End Developer
@@ -10,12 +11,9 @@
 
 ## 🛠️ Skills
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
 ---
 
@@ -33,3 +31,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=sathishkofficial01&color=blue)
