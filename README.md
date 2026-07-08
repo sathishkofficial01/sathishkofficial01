@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner1.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sathish Kumar</h1>
 
 <h3 align="center">💻 Front-End Developer | React Learner 🚀</h3>
