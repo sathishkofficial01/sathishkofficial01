@@ -1,3 +1,20 @@
+<div align="center" style="background-color:#050505; color:white; padding:20px;">
+
+<h1 style="color:#FFD700;">
+Sathish Kumar
+</h1>
+
+<h3>
+💻 Front-End Developer | ⚛️ React Developer
+</h3>
+
+<p>
+🚀 Building Modern Web Experiences
+</p>
+
+</div>
+
+
 <p align="center">
   <img src="banner2.png" width="100%" />
 </p>
