@@ -1,11 +1,5 @@
-body {
- Background: #050505 (premium black)
-Text: #FFFFFF
-Accent: #FFD700 (gold)
-}
-
 <p align="center">
-  <img src="banner1.png" width="100%" />
+  <img src="banner2.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sathish Kumar</h1>
