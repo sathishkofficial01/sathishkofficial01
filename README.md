@@ -1,6 +1,6 @@
-<style>
-  background color; black;
-</style>
+Background: #050505 (premium black)
+Text: #FFFFFF
+Accent: #FFD700 (gold)
 
 <p align="center">
   <img src="banner1.png" width="100%" />
