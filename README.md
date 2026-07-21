@@ -6,7 +6,12 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
 
-# 👋 Hi, I'm <span style="color:#f4b400">Sathish Kumar</span>
+</div>
+
+<div align="center">
+ 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sathish Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="right">
 
 ### 🚀 Front-End Developer • Aspiring Full Stack Developer
 
