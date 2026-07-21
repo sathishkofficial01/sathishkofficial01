@@ -704,6 +704,16 @@ Simple productivity application to manage daily tasks efficiently.
 
 ---
 
+## 📦 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
+
+</p>
+
+---
+
 ## 📦 Repository Statistics
 
 <p align="center">
@@ -1028,161 +1038,4 @@ and see the world from different perspectives.
 <!--                  END OF README                         -->
 <!-- ====================================================== -->
 
-
-****************************************************************************************************************************************************
-
-
-# 👋 Hi, I'm Sathish Kumar
-
-<h3 align="center">
-💻 Front-End Developer | React.js Developer | Web Developer
-</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sathishkofficial01&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/sathishkofficial01?label=Followers&style=social" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌱 Learning **React.js, Python, Django**
-- 💻 Passionate about Front-End Development
-- 📫 Email: **sathishkofficial01@gmail.com**
-- 📍 Tamil Nadu, India
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,django,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Dashboard
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌍 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkofficial01&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathishkofficial01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📦 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Repository Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishkofficial01&theme=tokyonight"/>
-
-</p>
-
----
-
-## ⚡ Productivity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathishkofficial01&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathishkofficial01&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/sathishkofficial01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sathishkofficial01">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sathishkofficial01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://sathishkofficial01.github.io/resume/">
-<img src="https://img.shields.io/badge/📄%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight"/>
-</p>
-
-## 🌍 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight"/>
-</p>
 
