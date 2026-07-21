@@ -1172,3 +1172,17 @@ and see the world from different perspectives.
 
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=tokyonight"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=sathishkofficial01&theme=tokyonight"/>
+</p>
+
+## 🌍 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=tokyonight"/>
+</p>
+
