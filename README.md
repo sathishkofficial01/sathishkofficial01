@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<<a href="https://sathishkofficial01.github.io/resume/Sathish_Kumar_ReactJS_Developer_Resume.pdf" target="_blank">
+<a href="https://sathishkofficial01.github.io/resume/Sathish_Kumar_ReactJS_Developer_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
