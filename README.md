@@ -1,203 +1,193 @@
-<div align="center">
+# 👋 Hi, I'm Sathish Kumar
 
-<!-- SECTION 01 — HERO BANNER -->
-<img width="100%" src="assets/hero.png" alt="SATHISHKUMAR K - Hero Banner" />
+### 💻 Front-End Developer | Aspiring Full Stack Developer
 
-<br/>
+> `< Code. Capture. Create. />`
 
-<!-- QUICK BADGES / NAV BAR -->
-<p align="center">
-  <a href="https://github.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/%3C%2F%3E_CODE-060A10?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=030508" alt="Code" />
-  </a>
-  <a href="#-technology-constellation">
-    <img src="https://img.shields.io/badge/%E2%9C%A6_CREATE-060A10?style=for-the-badge&logo=react&logoColor=8B5CFF&labelColor=030508" alt="Create" />
-  </a>
-  <a href="#-beyond-code">
-    <img src="https://img.shields.io/badge/%E2%96%A3_CAPTURE-060A10?style=for-the-badge&logo=unsplash&logoColor=27E8A7&labelColor=030508" alt="Capture" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/%E2%9C%A6_INSPIRE-060A10?style=for-the-badge&logo=linkedin&logoColor=168CFF&labelColor=030508" alt="Inspire" />
-  </a>
-</p>
+I’m a passionate developer focused on building **modern, responsive and user-friendly web applications**.
 
-</div>
+Currently improving my skills in **React.js, TypeScript, Node.js, Express.js and MongoDB** while building real-world projects.
 
-<br/>
+---
 
-<!-- SECTION 02 — SIGNATURE STATEMENT -->
-<img width="100%" src="assets/signature_statement.svg" alt="I turn ideas into digital experiences" />
+## 🚀 About Me
 
-<br/><br/>
+- 💻 Front-End Developer
+- 🌱 Aspiring Full Stack Developer
+- ⚛️ Building projects with React.js
+- 🐍 Working with Python & Django
+- 🎨 Passionate about UI/UX and modern web design
+- 📚 Continuously learning new technologies
+- 🚀 Focused on building real-world applications
 
-<!-- SECTION 03 — ABOUT ME -->
-<img width="100%" src="assets/about_me.svg" alt="About Sathishkumar K" />
+---
 
-<br/><br/>
+## 🛠️ Tech Stack
 
-<!-- SECTION 04 — TECHNOLOGY CONSTELLATION -->
-<img width="100%" src="assets/tech_constellation.svg" alt="Technology Constellation" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/><br/>
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<!-- SECTION 05 — CURRENT FOCUS -->
-<img width="100%" src="assets/current_focus.svg" alt="Current Focus" />
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br/><br/>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- SECTION 06 — SELECTED WORK -->
-<div align="center">
-  <h2>✦ SELECTED WORK</h2>
-  <p><i>A curated collection of front-end and web engineering projects.</i></p>
-</div>
+---
 
-<br/>
+# 📌 Featured Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <!-- PROJECT 01 -->
-      <table width="100%" style="background-color: #060A10; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px;">
-        <tr>
-          <td>
-            <span style="color: #00E5FF; font-weight: bold; font-size: 12px;">PROJECT 01</span><br/>
-            <h3 style="color: #E8EDF5; margin-top: 4px; margin-bottom: 8px;">🛒 E-COMMERCE EXPERIENCE</h3>
-            <p style="color: #8A99AD; font-size: 13px;">
-              A modern responsive shopping experience built with React.js and modern frontend technologies. Features clean component architecture and smooth cart state management.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/React.js-0B1018?style=flat-square&logo=react&logoColor=00E5FF" />
-              <img src="https://img.shields.io/badge/JavaScript-0B1018?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-              <img src="https://img.shields.io/badge/CSS3-0B1018?style=flat-square&logo=css3&logoColor=1572B6" />
-            </p>
-            <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.08);" />
-            <a href="https://github.com/sathishkofficial01"><b>🌐 LIVE DEMO</b></a> &nbsp;•&nbsp; 
-            <a href="https://github.com/sathishkofficial01"><b>&lt;/&gt; VIEW CODE</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <!-- PROJECT 02 -->
-      <table width="100%" style="background-color: #060A10; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px;">
-        <tr>
-          <td>
-            <span style="color: #8B5CFF; font-weight: bold; font-size: 12px;">PROJECT 02</span><br/>
-            <h3 style="color: #E8EDF5; margin-top: 4px; margin-bottom: 8px;">📝 TASK MANAGEMENT</h3>
-            <p style="color: #8A99AD; font-size: 13px;">
-              A clean productivity application with interactive task management functionality, filtering, and local storage persistence.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/HTML5-0B1018?style=flat-square&logo=html5&logoColor=E34F26" />
-              <img src="https://img.shields.io/badge/CSS3-0B1018?style=flat-square&logo=css3&logoColor=1572B6" />
-              <img src="https://img.shields.io/badge/JavaScript-0B1018?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-            </p>
-            <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.08);" />
-            <a href="https://github.com/sathishkofficial01"><b>🌐 LIVE DEMO</b></a> &nbsp;•&nbsp; 
-            <a href="https://github.com/sathishkofficial01"><b>&lt;/&gt; VIEW CODE</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <!-- PROJECT 03 -->
-      <table width="100%" style="background-color: #060A10; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px;">
-        <tr>
-          <td>
-            <span style="color: #27E8A7; font-weight: bold; font-size: 12px;">PROJECT 03</span><br/>
-            <h3 style="color: #E8EDF5; margin-top: 4px; margin-bottom: 8px;">🎓 STUDENT MANAGEMENT</h3>
-            <p style="color: #8A99AD; font-size: 13px;">
-              A structured application for managing student records and information with full CRUD capabilities and database integration.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/React.js-0B1018?style=flat-square&logo=react&logoColor=00E5FF" />
-              <img src="https://img.shields.io/badge/Node.js-0B1018?style=flat-square&logo=nodedotjs&logoColor=339933" />
-              <img src="https://img.shields.io/badge/MongoDB-0B1018?style=flat-square&logo=mongodb&logoColor=47A248" />
-            </p>
-            <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.08);" />
-            <a href="https://github.com/sathishkofficial01"><b>🌐 LIVE DEMO</b></a> &nbsp;•&nbsp; 
-            <a href="https://github.com/sathishkofficial01"><b>&lt;/&gt; VIEW CODE</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <!-- PROJECT 04 -->
-      <table width="100%" style="background-color: #060A10; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px;">
-        <tr>
-          <td>
-            <span style="color: #168CFF; font-weight: bold; font-size: 12px;">PROJECT 04</span><br/>
-            <h3 style="color: #E8EDF5; margin-top: 4px; margin-bottom: 8px;">👤 PERSONAL PORTFOLIO</h3>
-            <p style="color: #8A99AD; font-size: 13px;">
-              A cinematic personal portfolio focused on developer branding and modern UI aesthetics with dark glassmorphism.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/React.js-0B1018?style=flat-square&logo=react&logoColor=00E5FF" />
-              <img src="https://img.shields.io/badge/JavaScript-0B1018?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-              <img src="https://img.shields.io/badge/CSS3-0B1018?style=flat-square&logo=css3&logoColor=1572B6" />
-            </p>
-            <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.08);" />
-            <a href="https://github.com/sathishkofficial01"><b>🌐 LIVE DEMO</b></a> &nbsp;•&nbsp; 
-            <a href="https://github.com/sathishkofficial01"><b>&lt;/&gt; VIEW CODE</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+## 🌐 1. Resume Portfolio
 
-<br/><br/>
+**Tech:** HTML5 • CSS3 • JavaScript • Bootstrap
 
-<!-- SECTION 07 — GITHUB ACTIVITY -->
-<div align="center">
-  <h2>⚡ GITHUB ANALYTICS</h2>
-</div>
+A modern responsive personal portfolio website designed to showcase my:
 
-<br/>
+- 👨‍💻 Developer profile
+- 🛠️ Technical skills
+- 📂 Projects
+- 📄 Resume
+- 📬 Contact information
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishkofficial01&show_icons=true&theme=dark&bg_color=060A10&title_color=00E5FF&text_color=E8EDF5&icon_color=8B5CFF&border_color=1E293B" width="48%" alt="Sathishkumar's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkofficial01&layout=compact&theme=dark&bg_color=060A10&title_color=00E5FF&text_color=E8EDF5&border_color=1E293B" width="48%" alt="Top Languages" />
-</p>
+### Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkofficial01&theme=dark&background=060A10&border=1E293B&stroke=00E5FF&ring=8B5CFF&fire=00E5FF" width="98%" alt="Contribution Streak" />
-</p>
+- Responsive design
+- Modern UI/UX
+- Professional developer profile
+- Mobile-friendly layout
+- Clean and structured code
 
-<br/><br/>
+---
 
-<!-- SECTION 08 — LEARNING ROADMAP -->
-<img width="100%" src="assets/learning_roadmap.svg" alt="Learning Roadmap" />
+## ✅ 2. Todo List App
 
-<br/><br/>
+**Tech:** HTML5 • CSS3 • JavaScript
 
-<!-- SECTION 09 — BEYOND CODE (PHOTOGRAPHY) -->
-<div id="-beyond-code">
-  <img width="100%" src="assets/photography_strip.svg" alt="Beyond Code - Photography Showcase" />
-</div>
+A simple and interactive Todo List application for managing daily tasks.
 
-<br/><br/>
+### Features
 
-<!-- SECTION 10 & 11 — CONNECT WITH ME & FOOTER -->
-<div id="-connect-with-me">
-  <img width="100%" src="assets/footer_banner.svg" alt="Connect with Sathishkumar K" />
-</div>
+- ➕ Add tasks
+- ✅ Complete tasks
+- 🗑️ Delete tasks
+- ✏️ Manage tasks
+- 📱 Responsive interface
+- ⚡ Interactive JavaScript functionality
 
-<br/>
+### What I Practiced
 
-<p align="center">
-  <a href="https://github.com/sathishkofficial01">
-    <img src="https://img.shields.io/badge/GitHub-sathishkofficial01-0B1018?style=for-the-badge&logo=github&logoColor=00E5FF" />
-  </a>
-  <a href="https://linkedin.com/in/sathishkofficial01">
-    <img src="https://img.shields.io/badge/LinkedIn-sathishkofficial01-0B1018?style=for-the-badge&logo=linkedin&logoColor=168CFF" />
-  </a>
-  <a href="mailto:sathishkofficial01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sathishkofficial01%40gmail.com-0B1018?style=for-the-badge&logo=gmail&logoColor=27E8A7" />
-  </a>
-</p>
+- DOM Manipulation
+- JavaScript Events
+- Arrays & Objects
+- Dynamic UI Updates
+- Responsive Design
 
-<!-- END OF README -->
+---
+
+## 🎓 3. Student Management System
+
+**Tech:** Python • Django • HTML5 • CSS3 • JavaScript • Bootstrap • SQLite
+
+A full-stack web application designed to manage student records efficiently.
+
+### Features
+
+- 🔐 User Registration
+- 🔑 Login & Logout
+- 👤 Authentication & Authorization
+- 📊 Dashboard
+- ➕ Add Student
+- 👁️ View Student
+- ✏️ Update Student
+- 🗑️ Delete Student
+- 🔍 Search Students
+- 📄 Pagination
+- ✅ Form Validation
+- 🔔 Django Messages
+- 🗄️ SQLite Database
+- 🧩 Django ORM
+
+### Student Management
+
+The system manages:
+
+- Student Name
+- Email
+- Phone
+- Gender
+- Age
+- Department
+- Course
+- Address
+- City
+- State
+- Pincode
+- Created Date
+- Updated Date
+
+---
+
+## 🛒 4. Grocery E-Commerce Website
+
+**Tech:** HTML5 • CSS3 • JavaScript • Bootstrap
+
+A modern grocery shopping website concept focused on creating a clean and user-friendly e-commerce experience.
+
+### Features
+
+- 🛍️ Product browsing
+- 🔎 Product search
+- 🛒 Shopping cart interface
+- 📦 Product categories
+- 💰 Product pricing
+- 📱 Responsive design
+- 🎨 Modern e-commerce UI
+- ⚡ Interactive JavaScript components
+
+### Focus
+
+- Responsive UI
+- E-commerce layout
+- Product presentation
+- User-friendly navigation
+- Clean frontend architecture
+
+---
+
+# 📊 Project Overview
+
+| Project | Type | Main Technologies |
+|---|---|---|
+| 🌐 Resume Portfolio | Portfolio | HTML, CSS, JavaScript, Bootstrap |
+| ✅ Todo List App | Web App | HTML, CSS, JavaScript |
+| 🎓 Student Management System | Full Stack | Python, Django, SQLite |
+| 🛒 Grocery E-Commerce | E-Commerce | HTML, CSS, JavaScript, Bootstrap |
+
+---
+
+# 📚 Currently Learning
+
+```text
+React.js
+TypeScript
+Node.js
+Express.js
+MongoDB
+Full Stack Development
+Modern UI/UX
